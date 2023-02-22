@@ -1,6 +1,9 @@
 # Youtube-Transcript-AI-Summary
 Get AI generated summary for Youtube video transcript.
 
+Website<br>
+https://www.mediafreeware.com/youtube-transcript-ai-summary-extension.html
+
 Chrome Extension<br>
 https://chrome.google.com/webstore/detail/youtube-transcript-ai-sum/eciiehmejcjnbooihpiljfnklkopkfcj
 
