@@ -12,3 +12,14 @@ https://microsoftedge.microsoft.com/addons/detail/youtube-transcript-ai-sum/jpdf
 
 Mozilla Firefox<br>
 https://addons.mozilla.org/en-GB/firefox/addon/youtube-transcript-ai-summary/
+
+===================================
+
+
+Before you submit issue:
+
+You will need OpenAI API Key and advance balanace in account for the summaries that are generated directly on Youtube website. This is seperate from your monthly subscription on ChatGPT.
+
+https://platform.openai.com/account/api-keys
+
+![image](https://user-images.githubusercontent.com/9138521/232521337-ec1358bd-c20d-425c-8e6f-d6dad8b3f284.png)
