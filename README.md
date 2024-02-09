@@ -23,3 +23,11 @@ You will need OpenAI API Key and advance balance in account for the summaries th
 https://platform.openai.com/account/api-keys
 
 ![image](https://user-images.githubusercontent.com/9138521/232521337-ec1358bd-c20d-425c-8e6f-d6dad8b3f284.png)
+
+
+Mozilla Firefox:
+After installing Youtube Transcript AI Summary for Mozilla Firefox, you need to enable permissions to make this extension work correctly. Here’s how to do that.
+Right click on extension icon and click Manage Extension.
+In permissions tab, enable all options.
+
+https://www.mediafreeware.com/article/enable-firefox-extension-permissions-youtube-transcript-ai-summary
